@@ -3,7 +3,7 @@
   An Interactive Power BI Dashboard for Transaction Analytics, User Behavior Analysis, and Business Insights
 </p>
 <p align="center">
-  <img src="Assets/dashboard_preview.png" alt="dashboard_preview.png" width="90%">
+  <img src="Phonepe-Analytics-Dashboard/Assets/dashboard_preview.png" alt="dashboard_preview.png" width="90%">
 </p>
 The dashboard focuses on transaction performance, user behavior, service-wise contribution, payment success rates, and customer segmentation. Along with visualizing data, the project emphasizes business storytelling and insight generation to support data-driven decision-making.
 
@@ -19,7 +19,7 @@ The objective of this project was to transform raw transaction data into actiona
 - What transaction patterns can be observed across different user groups?
 
 ## Dashboard Preview
-![Dashboard Preview](Assets/dashboard_preview.png)
+![Dashboard Preview](Phonepe-Analytics-Dashboard/Assets/dashboard_preview.png)
 
 <H6 align= "center"> Key Performance Indicators </H6>
 | KPI | Value |
