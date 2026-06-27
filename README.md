@@ -134,14 +134,21 @@ Most importantly, this project reinforced the idea that effective dashboards are
 ## Project Structure
 PhonePe-Payment-Insights-Dashboard
 
-├── Dashboard
+## 📁 Project Structure
+
+PhonePe-Payment-Insights-Dashboard/
+│
+├── Dashboard/
 │   └── PhonePe_Dashboard.pbix
-├── Dataset
+│
+├── Dataset/
 │   └── phonepe_dataset.csv
-├── Assets
+│
+├── Assets/
 │   ├── dashboard_preview.png
-│   ├── icons
-│   └── background
+│   ├── icons/
+│   └── background/
+│
 └── README.md
 
 <H5 align = "center" ># Author</H5>
